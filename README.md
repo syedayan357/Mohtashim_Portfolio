@@ -7,10 +7,10 @@
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed-diraar-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-diraar-ahmed" height="30" width="40" /></a>
-<a href="https://kaggle.com/syeddiraar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syeddiraar" height="30" width="40" /></a>
-<a href="https://instagram.com/diraar_syed0221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diraar_syed0221" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/diraar0221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diraar0221" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/syed-mohtashim-ahmed-9676abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-mohtashim-ahmed" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/syedmohtashimahmed3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedmohtashimahmed3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ayan_syed_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayan_syed_7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/syedmohtashimah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syedmohtashim1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
