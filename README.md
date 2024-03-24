@@ -7,7 +7,7 @@
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/syed-mohtashim-ahmed-9676abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-mohtashim-ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-mohtashim-ahmed-9676abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-mohtashim-ahmed" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/syedmohtashimahmed3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedmohtashimahmed3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ayan_syed_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayan_syed_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/syedmohtashimah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syedmohtashim1" height="30" width="40" /></a>
@@ -15,7 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?sca_esv=2e0a38931ff166af&sxsrf=ACQVn0_BPXv0daZsQj4Uc9_9nCWkgyQHig:1711287850790&q=splunk+logo&tbm=isch&source=lnms&prmd=isvnmbtz&sa=X&ved=2ahUKEwjHqtGDhI2FAxXLbmwGHRm1CosQ0pQJegQIERAB&biw=1536&bih=730&dpr=1.25#imgrc=ivPrKy_CZBcrDM" alt="Splunk" width="40" height="40"/> </a> 
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/drive/u/0/folders/14SwiygsF79NY_CyXbK9rDrDh4vXxm5NQ" alt="Splunk" width="40" height="40"/> </a> 
+  <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/drive/u/0/folders/14SwiygsF79NY_CyXbK9rDrDh4vXxm5NQ" alt="ServiceNow" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
